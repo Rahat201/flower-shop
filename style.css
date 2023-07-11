@@ -124,6 +124,21 @@ body{
     line-height: 35px;
     text-decoration-line: underline;
 }
+            /* choice-list */
+.choice-list{
+    background-color: #fce9ed;
+    padding: 30px 100px 30px 100px;
+    width: 630px;
+    text-align: center;
+    margin: 0px 150px 50px 300px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+
+}
+.list{
+    margin-bottom: 20px;
+}
 
              /* extra-section */
 .extra-section{
@@ -138,13 +153,7 @@ body{
 .extra-section-img-1{
    
     align-items: center;
-    margin right: 30px;
-}
-.extra-section-img-2{
-
-}
-.extra-section-img-3{
-
+    margin-right: 30px;
 }
 
 .extra-section-names{
@@ -191,7 +200,7 @@ font-weight: 800;
  
  .insta-section{
     padding:30px 100px 50px 100px;
-    margin top: 30px;
+    margin-top: 30px;
  }  
 
 .insta-heading{
@@ -294,4 +303,11 @@ color: white;
     text-align: center;
     font-size: 16px;
     font-weight: 400;
-    }
+    margin-bottom: 30px;
+ }
+.soical-site{
+    color: #fce9ed;
+    display: flex;
+    justify-content: space-around;
+
+}
