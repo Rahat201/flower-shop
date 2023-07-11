@@ -240,7 +240,8 @@ font-weight: 800;
         /* Latest deal section  */
 
 .latest-deals-section{
-    background-image: url("../flower asset/angle 9.png");
+    
+    background-image: url("flower-asset/angle 9.png") ;
     height: 350px;
     padding: 50px 100px 20px 100px;
     align-items:center ;
